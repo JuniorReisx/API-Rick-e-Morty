@@ -7,7 +7,7 @@ Este projeto front-end utiliza AJAX e jQuery para consumir a API do Rick and Mor
 
 ## Demonstração
 
-Você pode visualizar o projeto online em: [Rick and Morty API Project](https://juniorreisx.github.io/API-Rick-e-Morty/)
+Você pode visualizar o projeto online em: https://juniorreisx.github.io/API-Rick-e-Morty/
 
 ## Tecnologias Utilizadas
 
@@ -40,24 +40,7 @@ Se você quiser rodar este projeto localmente, siga os passos abaixo:
 
 ## API Utilizada
 
-Este projeto utiliza a [API do Rick and Morty](https://rickandmortyapi.com/), que fornece dados sobre a série, incluindo informações sobre personagens, episódios e locais.
-
-## Contato
-
-Se você tiver alguma dúvida ou gostaria de discutir uma possível colaboração, sinta-se à vontade para me contatar:
-
-- E-mail: seu-email@example.com
-- LinkedIn: [Seu Perfil](https://www.linkedin.com/in/seu-perfil)
-
-## Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir um issue ou fazer um pull request com melhorias ou sugestões.
-
-## Licença
-
-Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
+Este projeto utiliza a https://rickandmortyapi.com/ , que fornece dados sobre a série, incluindo informações sobre personagens, episódios e locais.
 
 Obrigado por conferir meu projeto!
 ```
